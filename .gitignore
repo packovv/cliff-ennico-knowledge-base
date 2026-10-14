@@ -1,0 +1,14 @@
+._*
+.DS_Store
+__pycache__/
+*.py[cod]
+*.tmp
+*.log
+session-log.md
+log.md
+logs/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
